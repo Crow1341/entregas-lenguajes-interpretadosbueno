@@ -12,3 +12,6 @@ Elegi esta carrera por que quiero hacer que los videojuegos sean mas interactivo
 - Correos: philipcvg@gmail.com 
 
 ![Fotomia](assests/yo.jpg.jpg)
+
+## ENTREGABLES
+- [apuntes](mds/apuntes.md)
