@@ -20,3 +20,11 @@ Profesor: Eduardo Guerrero
 Aprendido: Estamos hacineod un juego para luego convertirlo en un juego de app para moviles. Tambien vimos , al igual que en diseño, como tener un orden para la creacion del juego.
 
 ![Proyecto](assests/crear.jpg)
+
+## Composicion y Diseño
+
+Porfesor: Roberto Melo
+
+Aprendido: Lo que estamos aprendiendo es a usar photoshop
+
+![Photoshop](assests/photo.jpg)
