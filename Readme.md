@@ -15,3 +15,7 @@ Elegi esta carrera por que quiero hacer que los videojuegos sean mas interactivo
 
 ## ENTREGABLES
 - [apuntes](mds/apuntes.md)
+
+[Practica2](mds/ramasfusiones.md)
+
+[Practica3](mds/etiquetas.md)
