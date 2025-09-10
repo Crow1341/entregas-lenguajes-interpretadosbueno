@@ -19,3 +19,5 @@ Elegi esta carrera por que quiero hacer que los videojuegos sean mas interactivo
 [Practica2](mds/ramasfusiones.md)
 
 [Practica3](mds/etiquetas.md)
+
+[Practica4](mds/primerparcial.md)
