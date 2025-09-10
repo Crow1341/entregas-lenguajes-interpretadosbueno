@@ -22,7 +22,7 @@ Sirve para que los equipos de trabajo se les facilite cambiar entre versiones
 
 6. #### ¿Para qué sirven los siguientes comandos: pwd, whoami, touch, mkdir, cp, mv, ls, clear, cd y rm? 
 
-pwd sirve para ver en donde estamos, mkdir para crear un directorio, cp para copiar cosas, mv para moverlas de un directorio a otro, ls para listar lo que hay en el directorio en el que estamos, clear para limpiar la terminal, cd para cambiar entre directorios, whoami sirve para ver el usario actual de la computadora que se este usando , rm es para remover acrhivos.
+**pwd** sirve para ver en donde estamos, **mkdir** para crear un directorio, **cp** para copiar cosas, **mv** para moverlas de un directorio a otro, **ls** para listar lo que hay en el directorio en el que estamos, **clear** para limpiar la terminal, **cd** para cambiar entre directorios, **whoami** sirve para ver el usario actual de la computadora que se este usando , **rm** es para remover acrhivos.
 
 7. #### ¿Qué significan los siguiente caracteres en la terminal de Comandos: ./, ../, /, y ~? 
 
